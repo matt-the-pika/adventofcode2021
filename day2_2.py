@@ -3,7 +3,6 @@ horizontal = 0
 depth = 0
 aim = 0
 
-# Stuff file contents into an array
 with open("day2.input") as f:
     for line in f:
         values = line.split()
